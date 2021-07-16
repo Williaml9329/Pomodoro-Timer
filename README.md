@@ -7,7 +7,9 @@ This is a pomodoro timer program that is used to block off a period of time for 
 ## TO-DO: ##
 
 *Make a reset button so if the user wants to time a different length of time they can.
+
 *Make a GUI for a graphical clock that can be used to enhance the timer.
+
 *Make a GUI for the time count to make it visually more appealing.
 
 ---
